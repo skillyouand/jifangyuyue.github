@@ -1,4 +1,0 @@
-﻿  STL案例-评委打分.cpp
-C:\Users\刘·润·超\source\repos\评委打分\评委打分\STL案例-评委打分.cpp(33,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
-C:\Users\刘·润·超\source\repos\评委打分\评委打分\STL案例-评委打分.cpp(46,16): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
-  评委打分.vcxproj -> C:\Users\刘·润·超\source\repos\评委打分\Debug\评委打分.exe
